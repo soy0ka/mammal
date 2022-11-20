@@ -16,7 +16,7 @@
     "@types/node-fetch": "^2.6.1",
     "@typescript-eslint/eslint-plugin": "5.19.0",
     "@typescript-eslint/parser": "5.19.0",
-    "eslint": "^7.12.1",
+    "eslint": "^8.0.0",
     "eslint-config-standard": "^16.0.3",
     "eslint-plugin-import": "^2.22.1",
     "eslint-plugin-node": "^11.1.0",
